@@ -1,0 +1,6 @@
+-Ir a clase de Spring
+-Ir a clase de Angular
+
+un número de teléfono (inventado)
+
+Segunda modificación tras hacer revert al add con git restore --staged hobbies.txt
