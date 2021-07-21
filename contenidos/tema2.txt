@@ -1,12 +1,1 @@
-<<<<<<< HEAD
 Este tema trata sobre la gestión de repositorios de git.
-=======
-<<<<<<< HEAD
-Este tema trata sobre la gestión de repositorios de git.
-=======
-
-Este tema trata sobre la gestión de repositorios de git.
-
-Este tema trata sobre la gestión de repositorios de git.
->>>>>>> 3e76c838ee35c2da4e59bfd6b165ea8bb9949053
->>>>>>> d0453e014457e844514d9a3882b3060e454bc2ec
