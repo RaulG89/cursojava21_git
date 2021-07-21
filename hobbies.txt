@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 hobbies | gimnasio
 ________| leer
 
 420
+=======
+
+Jugar a baloncesto
+Nadar
+8
+
+-Ir a clase de Spring
+-Ir a clase de Angular
+
+un número de teléfono (inventado)
+>>>>>>> 3e76c838ee35c2da4e59bfd6b165ea8bb9949053
