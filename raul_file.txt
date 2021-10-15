@@ -1,0 +1,11 @@
+Hola, me llamo Raúl.
+Si visitas este repositorio te agradecería que incluyeses tu nombre y la inicial de tu apellido a continuación:
+Pelayo R
+Pedro
+<<<<<<< HEAD
+Andrés F
+=======
+Antonio G
+Javier A
+
+>>>>>>> 2c0f847c8b80f78fb03afbbc11c977e1ab9f9c9b
