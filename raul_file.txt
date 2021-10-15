@@ -1,4 +1,8 @@
 Hola, me llamo Raúl.
 Si visitas este repositorio te agradecería que incluyeses tu nombre y la inicial de tu apellido a continuación:
+Pelayo R
 Pedro
 Raul L
+Andrés F
+Antonio G
+Javier A
