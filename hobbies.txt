@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 Senderismo, nataci¢n 
 19
+=======
+<<<<<<< HEAD
+Guitarra
+Gimnasio
+7
+=======
+<<<<<<< HEAD
+FÃºtbol
+9
+=======
+leer
+deporte
+21
+>>>>>>> 2c0f847c8b80f78fb03afbbc11c977e1ab9f9c9b
+>>>>>>> f7dd32959f860216b6dbc438a1c1d24e01dca940
+>>>>>>> 18b2e1b54596aa5468e5df85dc3f178b42d04d6e
