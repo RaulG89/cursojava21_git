@@ -1,3 +1,9 @@
 Hola, me llamo Raúl.
 Si visitas este repositorio te agradecería que incluyeses tu nombre y la inicial de tu apellido a continuación:
+<<<<<<< HEAD
 Sheila P
+=======
+Pedro
+Abigail
+Juan V
+>>>>>>> fb76ec665fa6ff80b8d999a47aceb3f0c3babf1d
